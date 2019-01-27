@@ -4,12 +4,6 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-clean-blog/blob/master/LICENSE)
  */
 
-@font-face {
-font-family: 'Avenir LT Std 55 Roman';
-font-style: normal;
-font-weight: normal;
-src: local('Avenir LT Std 55 Roman'), url('AvenirLTStd-Roman.woff') format('woff');
-}
 
 body {
   font-size: 20px;
